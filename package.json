@@ -1,0 +1,27 @@
+{
+  "name": "unmask-url",
+  "version": "1.0.0",
+  "description": "Deshorten a short link, and reveal where it's truly going.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielytuk/unmask-url.git"
+  },
+  "keywords": [
+    "unshorten",
+    "reveal",
+    "url"
+  ],
+  "author": "Daniel Richard Todd Back (danielytuk)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielytuk/unmask-url/issues"
+  },
+  "homepage": "https://github.com/danielytuk/unmask-url#readme",
+  "dependencies": {
+    "axios": "^0.26.0"
+  }
+}
